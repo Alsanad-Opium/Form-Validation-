@@ -62,7 +62,7 @@ Contributions are welcome! Here's how you can help:
 2. **Clone the Forked Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/simple-form-validation.git
+   git clone https://github.com/Alsanad-Opium/simple-form-validation.git
    ```
 
 3. **Create a New Branch**: Use a descriptive name for your branch.
